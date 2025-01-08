@@ -14,12 +14,19 @@ Questions Addressed (KPIs)
 -This dashboard answers the following business questions:
 
 1.Compare sales and profits across months.
+
 2.Which month generated the highest sales and profit?
+
 3.Who purchased more products – Men or Women?
+
 4.What are the different payment modes used?
+
 5.List the top 5 states contributing to total sales.
+
 6.Analyze the relationship between product categories and profits.
+
 7.Which sales channel contributed the most to sales?
+
 8.What percentage of total products were delivered successfully?
 
 
