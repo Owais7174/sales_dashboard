@@ -23,7 +23,8 @@ Which sales channel contributed the most to sales?
 What percentage of total products were delivered successfully?
 
 
-Here’s a personalized version for your dashboard README:-Screenshot .png
+Here’s a personalized version for your dashboard README:
+- <a href"https://github.com/Owais7174/sales_dashboard/blob/main/Screenshot%20.png"
 
 
 Ecommerce Sales Dashboard (Interactive Dashboard Creation using Power BI)
@@ -44,12 +45,14 @@ List the top 5 states contributing to total sales.
 Analyze the relationship between product categories and profits.
 Which sales channel contributed the most to sales?
 What percentage of total products were delivered successfully?
+
 Process
 Verified and cleaned the data to ensure consistency in format and values.
 Created visualizations like bar charts, pie charts, and KPIs to answer the above questions.
 Consolidated the visuals into a single dashboard.
 Applied interactive slicers for dynamic filtering by time period, state, and other dimensions.
 
+![Screenshot ](https://github.com/user-attachments/assets/4e3d862b-219e-4d3a-a3b8-d0e2bac58a19)
 
 Dashboard Features
 Monthly Sales Trends: Tracks sales and profit across the months to identify peak and slow seasons.
