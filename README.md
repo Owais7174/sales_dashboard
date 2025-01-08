@@ -1,9 +1,9 @@
 # Ecommerce Sales Dashboard (Interactive Dashboard Creation using Power BI)
-Project Objective
+Project Objective:
 The objective of this project is to create a comprehensive annual sales report for an ecommerce store. This dashboard helps the store owner analyze sales data from 2022, identify customer trends, and build strategies to increase sales in 2023 and 2024.
 
 
-Dataset Used
+Dataset Used:
 - <a href="https://github.com/user-attachments/files/18348924/Orders.csv"
 - <a href="https://github.com/user-attachments/files/18348922/Details.csv"
 
@@ -11,28 +11,28 @@ The dataset contains key sales information, including customer details, product 
 
 
 Questions Addressed (KPIs)
-This dashboard answers the following business questions:
+-This dashboard answers the following business questions:
 
-Compare sales and profits across months.
-Which month generated the highest sales and profit?
-Who purchased more products – Men or Women?
-What are the different payment modes used?
-List the top 5 states contributing to total sales.
-Analyze the relationship between product categories and profits.
-Which sales channel contributed the most to sales?
-What percentage of total products were delivered successfully?
+1.Compare sales and profits across months.
+2.Which month generated the highest sales and profit?
+3.Who purchased more products – Men or Women?
+4.What are the different payment modes used?
+5.List the top 5 states contributing to total sales.
+6.Analyze the relationship between product categories and profits.
+7.Which sales channel contributed the most to sales?
+8.What percentage of total products were delivered successfully?
 
 
 Here’s a personalized version for your dashboard README:
 - <a href"https://github.com/Owais7174/sales_dashboard/blob/main/Screenshot%20.png"
 
 
-Ecommerce Sales Dashboard (Interactive Dashboard Creation using Power BI)
-Project Objective
-The objective of this project is to create a comprehensive annual sales report for an ecommerce store. This dashboard helps the store owner analyze sales data from 2022, identify customer trends, and build strategies to increase sales in 2023 and 2024.
+Ecommerce Sales Dashboard (Interactive Dashboard Creation using Power BI):
+Project Objective:
+-The objective of this project is to create a comprehensive annual sales report for an ecommerce store. This dashboard helps the store owner analyze sales data from 2022, identify customer trends, and build strategies to increase sales in 2023 and 2024.
 
-Dataset Used
-The dataset contains key sales information, including customer details, product categories, payment methods, and state-wise sales distribution.
+Dataset Used:
+-The dataset contains key sales information, including customer details, product categories, payment methods, and state-wise sales distribution.
 
 Questions Addressed (KPIs)
 This dashboard answers the following business questions:
@@ -46,15 +46,15 @@ Analyze the relationship between product categories and profits.
 Which sales channel contributed the most to sales?
 What percentage of total products were delivered successfully?
 
-Process
-Verified and cleaned the data to ensure consistency in format and values.
-Created visualizations like bar charts, pie charts, and KPIs to answer the above questions.
-Consolidated the visuals into a single dashboard.
-Applied interactive slicers for dynamic filtering by time period, state, and other dimensions.
+Process:
+1.Verified and cleaned the data to ensure consistency in format and values.
+2.Created visualizations like bar charts, pie charts, and KPIs to answer the above questions.
+3.Consolidated the visuals into a single dashboard.
+4.Applied interactive slicers for dynamic filtering by time period, state, and other dimensions.
 
 ![Screenshot ](https://github.com/user-attachments/assets/4e3d862b-219e-4d3a-a3b8-d0e2bac58a19)
 
-Dashboard Features
+Dashboard Features:
 Monthly Sales Trends: Tracks sales and profit across the months to identify peak and slow seasons.
 Top Categories: Identifies the best-performing product categories based on sales volume and profit.
 State-wise Sales: Highlights top-performing states like Maharashtra, Gujarat, and Rajasthan.
