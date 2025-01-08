@@ -23,7 +23,7 @@ Which sales channel contributed the most to sales?
 What percentage of total products were delivered successfully?
 
 
-Here’s a personalized version for your dashboard README:
+Here’s a personalized version for your dashboard README:- <a href="https://github.com/user-attachments/assets/f297fb74-2c36-4ba5-a642-dfdcd6b02679"
 
 Ecommerce Sales Dashboard (Interactive Dashboard Creation using Power BI)
 Project Objective
